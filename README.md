@@ -1,3 +1,9 @@
+## No Longer Maintained
+
+This repository is no longer maintained. The bootstrap version used is 2.0.2, which is very different in functionality to current Bootstrap releases. If you would like to take over this repository, do get in touch.
+
+---
+
 ## Installation
 
 Add this repository as a git submodule, or just place the bootstrapAdminThemePlugin folder in your project's plugins folder.
